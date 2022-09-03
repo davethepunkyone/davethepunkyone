@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davethepunkyone!
-- :computer: I'm a software tester by day, gamer by night.
+- :computer: I'm a test automation specialist by day, python developer and gamer by night.
 - 👀 I’m interested in coding, working on my own games and apps.
 - 🌱 I’m currently learning Python and AWS.
 - 💞️ I’m looking to collaborate on Python-related projects.
