@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python, Godot and AWS.
 - 💞️ I’m looking to collaborate on Python-related projects.
 - 📫 How to reach me:
-  - [X](https://twitter.com/davethepunkyone)
   - [LinkedIn](https://www.linkedin.com/in/dave--harding/)
 
 <!---
